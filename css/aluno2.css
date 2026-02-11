@@ -1,0 +1,50 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fff8e7;
+    color: #333;
+    line-height: 1.7;
+}
+
+h1 {
+    color: #d35400;
+    text-align: center;
+    background-color: #fdeb71;
+}
+
+h2 {
+    color: #e67e22;
+    border-left: 5px solid #e67e22;
+}
+
+h3 {
+    color: #c0392b;
+    font-style: italic;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+ul {
+    background-color: #ecf0f1;
+    list-style-type: square;
+}
+
+ol {
+    background-color: #e8f8f5;
+    border-left: 4px solid #16a085;
+}
+
+img {
+    width: 50%;
+}
+
+a {
+    color: #d35400;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
